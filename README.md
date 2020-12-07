@@ -1,5 +1,7 @@
 # HAND KEYPOINT DETECTION
 
+![](name-of-giphy.gif)
+
 This is a repo to execute live hand keypoint generation using OpenCV as implemented by https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/
 
 I have added the model in the hand directory. The model can be downloaded from https://www.kaggle.com/changethetuneman/openpose-model?select=pose_iter_102000.caffemodel named as 'pose_iter_102000.caffemodel'  and save it in the hand directory.
