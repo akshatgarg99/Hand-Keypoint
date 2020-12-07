@@ -1,6 +1,6 @@
 # HAND KEYPOINT DETECTION
 
-![](name-of-giphy.gif)
+![](skeleton.gif)
 
 This is a repo to execute live hand keypoint generation using OpenCV as implemented by https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/
 
