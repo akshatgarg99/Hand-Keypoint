@@ -91,7 +91,7 @@ class HandPose:
 
 
 if __name__ == '__main__':
-    input_source = 'osy_test.mp4'
+    #input_source = 'osy_test.mp4'
     protoFile = "hand/pose_deploy.prototxt"
     weightsFile = "hand/pose_iter_102000.caffemodel"
     nPoints = 22
